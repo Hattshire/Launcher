@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="placeholder_time">8:50 p.m.</string>
+    <string name="placeholder_date">mar. 17 ago.</string>
+    <string name="placeholder_favapp_description">Favourite app</string>
+    <string name="go_to_applist">Go to AppList</string>
+    <string name="placeholder_app_row_icon_description">Launch UNKNOWN_APP</string>
+    <string name="placeholder_app_row_text">App Name Here</string>
+</resources>
